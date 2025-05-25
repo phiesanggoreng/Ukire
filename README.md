@@ -85,7 +85,7 @@ Silakan fork, buat branch, dan ajukan PR.
 ---
 
 ## 👥 Tim UKIRE
-Kelompok 3
+
 - Nibras 
 - Awal
 - Deri 
