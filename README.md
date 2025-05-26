@@ -84,16 +84,6 @@ Silakan fork, buat branch, dan ajukan PR.
 
 ---
 
-## 👥 Tim UKIRE
-
-- Nibras 
-- Awal
-- Deri 
-- Rendra
-- Virdo
-
----
-
 ## © 2025 UKIRE
 
 Furniture ukir, kualitas terbaik untuk rumah Anda.
